@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THAKUR/static/css/main.ab338c10.css",
+    "main.js": "/THAKUR/static/js/main.9daf095f.js",
+    "static/js/453.64512fd7.chunk.js": "/THAKUR/static/js/453.64512fd7.chunk.js",
+    "index.html": "/THAKUR/index.html",
+    "main.ab338c10.css.map": "/THAKUR/static/css/main.ab338c10.css.map",
+    "main.9daf095f.js.map": "/THAKUR/static/js/main.9daf095f.js.map",
+    "453.64512fd7.chunk.js.map": "/THAKUR/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab338c10.css",
+    "static/js/main.9daf095f.js"
+  ]
+}
