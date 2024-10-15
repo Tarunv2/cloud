@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/THAKUR/static/css/main.ab338c10.css",
-    "main.js": "/THAKUR/static/js/main.9daf095f.js",
-    "static/js/453.64512fd7.chunk.js": "/THAKUR/static/js/453.64512fd7.chunk.js",
-    "index.html": "/THAKUR/index.html",
-    "main.ab338c10.css.map": "/THAKUR/static/css/main.ab338c10.css.map",
-    "main.9daf095f.js.map": "/THAKUR/static/js/main.9daf095f.js.map",
-    "453.64512fd7.chunk.js.map": "/THAKUR/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/cloud/static/css/main.ab338c10.css",
+    "main.js": "/cloud/static/js/main.52c556a4.js",
+    "static/js/453.64512fd7.chunk.js": "/cloud/static/js/453.64512fd7.chunk.js",
+    "index.html": "/cloud/index.html",
+    "main.ab338c10.css.map": "/cloud/static/css/main.ab338c10.css.map",
+    "main.52c556a4.js.map": "/cloud/static/js/main.52c556a4.js.map",
+    "453.64512fd7.chunk.js.map": "/cloud/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab338c10.css",
-    "static/js/main.9daf095f.js"
+    "static/js/main.52c556a4.js"
   ]
 }
